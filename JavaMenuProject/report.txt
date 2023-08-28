@@ -1,0 +1,33 @@
+
+		Report created on 7/27/23, 9:20 PM
+		************************************
+
+Faculty Members
+----------------
+1. Marcus Joseph
+ID: qq1111
+Professor, EnGlish
+
+Staff Members
+---------------
+1. Jhon Smith
+ID: qq9930
+EngineerIng, Part Time
+
+Students
+---------------
+1. Logan Dude
+ID: jj9292
+Gpa: 992.0
+Credit Hours: 49
+
+2. Logan Smith
+ID: ee3333
+Gpa: 9.3
+Credit Hours: 4
+
+3. Cory Joseph
+ID: kd9292
+Gpa: 3.4
+Credit Hours: 4
+
